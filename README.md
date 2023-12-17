@@ -1,1 +1,1 @@
-# tkinter
+# tkinter視窗
